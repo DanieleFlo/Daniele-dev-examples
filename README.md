@@ -36,7 +36,7 @@ Esempi di automazione browser utilizzando Selenium:
 1. Esplora le cartelle per scoprire gli esempi di codice e i progetti.
 2. Clona questa repository usando il comando:
    ```bash
-   git clone https://github.com/tuo-username/Daniele-dev-examples.git
+   git clone https://github.com/DanieleFlo/Daniele-dev-examples.git
    ```
 3. Segui le istruzioni specifiche nei file README delle singole cartelle, se presenti.
 
